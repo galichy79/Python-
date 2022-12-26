@@ -60,7 +60,7 @@ venv/Scripts/Activate.ps1 - активируем на виндовз powershell
 `- На выходе будет писать на любых языках.`
 
 
-# Тут мы пишем тренировочные тексты 
+# Тут мы пишем все без разбора 
 
 
 
@@ -70,6 +70,9 @@ venv/Scripts/Activate.ps1 - активируем на виндовз powershell
 - [Закон про мобінг](https://ua.korrespondent.net/articles/4547436-shtrafy-za-mobinh-yak-zakon-zakhystyt-pratsivnyka-vid-tskuvannia)
 
 - [Вимоги МВФ для надання кредитів Україні](https://ua.korrespondent.net/articles/4547478-mvf-vysunuv-umovy-do-ukrainy-dlia-nadannia-kredytiv)
+
+
+- [Создать файл .gitignore](https://www.toptal.com/developers/gitignore/)
 
 
 Чтобы сделать абзац - пропусти одну строку.
